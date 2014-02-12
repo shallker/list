@@ -1,0 +1,16 @@
+{
+  "name": "list",
+  "repo": "shallker/list",
+  "description": "A list lib",
+  "version": "0.0.1",
+  "paths": [],
+  "local": [],
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js",
+    "lib/list.js"
+  ]
+}
